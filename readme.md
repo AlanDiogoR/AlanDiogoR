@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Alan, Hi!
+🤚Hi, I'm Alan!
 
 
 ## 🌐 Socials:
