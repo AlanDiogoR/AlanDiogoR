@@ -1,4 +1,4 @@
-🤚Hi, I'm Alan!
+Hi, I'm Alan!👨‍💻
 
 
 ## 🌐 Socials:
