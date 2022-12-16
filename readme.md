@@ -4,9 +4,6 @@ Hi, I'm Alan!👨‍💻
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alandiogorb/) 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlanDiogoR&theme=dark&hide_border=false)<br/>
 
 
 # 💻 Tech Stack:
@@ -18,4 +15,5 @@ Hi, I'm Alan!👨‍💻
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical"/>  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanDiogoR&theme=radical&hide_border=false" />
 </p>
