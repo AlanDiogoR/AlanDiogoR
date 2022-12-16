@@ -8,7 +8,7 @@ Hi, I'm Alan!👨‍💻
 
 # 💻 Tech Stack:
 
-<div style="display: flex"> 
+<div style="text-aling: center"> 
   <img height="30px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title='Logo CSS'/>
   <img height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title='Logo HTML'/>
   <img height="30px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title='Logo JavaScript'/>
