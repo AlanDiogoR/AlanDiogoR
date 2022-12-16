@@ -16,6 +16,6 @@ Hi, I'm Alan!👨‍💻
 ![](https://github-profile-trophy.vercel.app/?username=AlanDiogoR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoleda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleda&layout=compact&langs_count=7&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical"/>  
 </p>
