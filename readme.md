@@ -15,4 +15,7 @@ Hi, I'm Alan!👨‍💻
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlanDiogoR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoleda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleda&layout=compact&langs_count=7&theme=radical"/>  
+</p>
