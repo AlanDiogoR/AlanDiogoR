@@ -23,6 +23,6 @@ Hi, I'm Alan!👨‍💻
 <p align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical"/>  
-  <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=AlanDiogoR&theme=radical&border_radius=8)](https://git.io/streak-stats">
+  <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=AlanDiogoR&theme=radical&hide_border=true&border_radius=8(https://git.io/streak-stats)">
 </p>
 
