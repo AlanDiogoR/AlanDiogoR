@@ -25,4 +25,4 @@ Hi, I'm Alan Diogo!👨‍💻
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical"/>  
   <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=AlanDiogoR&theme=radical&hide_border=true&border_radius=8(https://git.io/streak-stats)">
 </p>
-<p>Hi!</p>
+
