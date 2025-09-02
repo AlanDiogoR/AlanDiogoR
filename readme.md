@@ -11,7 +11,7 @@
 
 ## 🌱 Sobre mim  
 
-- Estudante de **Engenharia de Software** na UTFPR (Cornélio Procópio).  
+- Estudante de **Engenharia de Software** na UTFPR.  
 - Técnico em **Desenvolvimento de Sistemas** pela ETEC Terezinha Monteiro dos Santos.  
 - Aprendizados práticos em desenvolvimento com cursos da **Rocketseat** e **JStack**.  
 - Desenvolvi um e-commerce usando **MongoDB**, **APIs REST** e **Next.js**, com foco em performance e experiência de uso.
