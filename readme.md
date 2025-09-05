@@ -81,7 +81,7 @@
 
 ##  Conecte-se comigo  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/alandiogorb/)
+[!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in//alandiogor/)
 
 ---
