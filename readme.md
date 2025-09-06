@@ -81,7 +81,6 @@
 
 ##  Conecte-se comigo  
 
-[!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in//alandiogor/)
 
 ---
