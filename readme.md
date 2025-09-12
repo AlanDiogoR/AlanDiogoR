@@ -84,5 +84,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in//alandiogor/)
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f1f1f,100:2aa889&section=footer"/>php
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f1f1f,100:2aa889&section=footer"/>
 
