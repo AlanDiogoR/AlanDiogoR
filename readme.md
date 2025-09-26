@@ -18,7 +18,6 @@
 
 ---
 
-
 ## 🚀 Tech Stacks 
 
 ### 🌱 Linguagens de Programação
