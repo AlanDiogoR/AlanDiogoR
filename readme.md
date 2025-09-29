@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2aa889,100:1f1f1f&text=Hi,+I'm+Alan+Diogo!&fontColor=ffffff&fontAlign=50&fontAlignY=35"/>
 
 <h3 align="center">Apaixonado por tecnologia, design e experiência do usuário ✨</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
