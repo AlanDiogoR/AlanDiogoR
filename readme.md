@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 🌱 Sobre mim  
 
 - Estudante de **Engenharia de Software** na UTFPR.  
