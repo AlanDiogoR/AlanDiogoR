@@ -67,11 +67,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanDiogoR&theme=radical" alt="Resumo do perfil"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanDiogoR&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanDiogoR&theme=radical" alt="Repos por linguagem"/>
+  <img src="https://img.shields.io/github/followers/AlanDiogoR?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores no GitHub"/>
+  <img src="https://img.shields.io/github/stars/AlanDiogoR?style=for-the-badge&logo=github&label=Stars" alt="Total de stars"/>
 </p>
 
 ---
