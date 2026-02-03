@@ -67,12 +67,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=86400" alt="Top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanDiogoR&theme=radical" alt="Resumo do perfil"/>
 </p>
-
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=AlanDiogoR&theme=radical&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanDiogoR&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanDiogoR&theme=radical" alt="Repos por linguagem"/>
 </p>
 
 ---
