@@ -64,15 +64,15 @@
 
 ---
 
-##  GitHub Statistics
+## 📊 Estatísticas do GitHub
 
-<p align="center">[  <img src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&cache_seconds=1800" />
-](https://www.google.com/search?q=%3Cimg+height%3D%22150em%22+src%3D%22https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DAlanDiogoR%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%22%2F%3E&oq=%3Cimg+height%3D%22150em%22+src%3D%22https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DAlanDiogoR%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%22%2F%3E&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEHMzM1ajBqN6gCCLACAfEFny7TowZCUk_xBZ8u06MGQlJP&sourceid=chrome&ie=UTF-8)
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=86400" alt="Top langs"/>
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=AlanDiogoR&theme=radical&hide_border=false&border_radius=8"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=AlanDiogoR&theme=radical&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
