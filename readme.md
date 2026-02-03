@@ -67,8 +67,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AlanDiogoR?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores no GitHub"/>
-  <img src="https://img.shields.io/github/stars/AlanDiogoR?style=for-the-badge&logo=github&label=Stars" alt="Total de stars"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=86400" alt="Top langs"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=AlanDiogoR&theme=radical&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
