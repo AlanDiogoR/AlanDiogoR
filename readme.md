@@ -67,7 +67,8 @@
 ##  GitHub Statistics
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&cache_seconds=1800" />
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
@@ -79,7 +80,7 @@
 
 ##  Conecte-se comigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in//alandiogor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alandiogor/)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f1f1f,100:2aa889&section=footer"/>
