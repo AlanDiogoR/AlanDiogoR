@@ -19,23 +19,23 @@ jobs:
           config_theme: carbon
           config_timezone: America/Sao_Paulo
           config_display: regular
-          config_padding: 8
+          config_padding: 10
 
-          # BASE (mais compacto)
-          base: header,activity,repositories
+          # BASE (IMPORTANTE)
+          base: header,activity,languages,repositories
 
           # STREAK REAL
           plugin_streak: yes
           plugin_streak_days: yes
-          plugin_streak_limit: 20
+          plugin_streak_limit: 21
 
           # ATIVIDADE
           plugin_activity: yes
-          plugin_activity_limit: 6
+          plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_visibility: all
 
-          # LINGUAGENS
+          # LINGUAGENS (CORREÇÃO PRINCIPAL)
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
