@@ -78,7 +78,7 @@
 
 <p align="center">
  <p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics"/>
 </p>
 
 </p>
