@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # atualiza todo dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,44 +14,30 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AlanDiogoR
 
-          # =====================
-          # VISUAL (harmoniza com theme=radical)
-          # =====================
+          # VISUAL
           template: classic
           config_theme: carbon
           config_timezone: America/Sao_Paulo
-          config_padding: 12
+          config_display: regular
+          config_padding: 8
 
-          # =====================
-          # BASE
-          # =====================
-          base: header, activity, community, repositories
+          # BASE (mais compacto)
+          base: header,activity,repositories
 
-          # =====================
-          # STREAK (sequência REAL)
-          # =====================
+          # STREAK REAL
           plugin_streak: yes
           plugin_streak_days: yes
+          plugin_streak_limit: 20
 
-          # =====================
-          # ATIVIDADE RECENTE
-          # =====================
+          # ATIVIDADE
           plugin_activity: yes
           plugin_activity_limit: 6
           plugin_activity_days: 14
           plugin_activity_visibility: all
 
-          # =====================
           # LINGUAGENS
-          # =====================
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_colors: github
-
-          # =====================
-          # CALENDÁRIO (impacto visual)
-          # =====================
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
