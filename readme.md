@@ -68,7 +68,9 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=86400" alt="Top langs"/>
+  <img height="165"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true"
+ />
 </p>
 
 <p align="center">
