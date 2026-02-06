@@ -77,9 +77,10 @@
 </p>
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AlanDiogoR&theme=radical&hide_border=true"
-    alt="GitHub streak"/>
+ <p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics"/>
+</p>
+
 </p>
 
 
