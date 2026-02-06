@@ -67,16 +67,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats-five-plum-81.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="180"
-       src="https://github-readme-stats-five-plum-81.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="500px"/>
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="450px"/>
+  <img height="150" src="https://github-readme-stats-five-plum-81.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-five-plum-81.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ##  Conecte-se comigo  
