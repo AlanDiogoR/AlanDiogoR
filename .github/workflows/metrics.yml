@@ -15,39 +15,43 @@ jobs:
           user: AlanDiogoR
 
           # =====================
-          # VISUAL (combina com radical)
+          # VISUAL (harmoniza com theme=radical)
           # =====================
           template: classic
           config_theme: carbon
           config_timezone: America/Sao_Paulo
-          config_display: large
-          config_padding: 0
+          config_padding: 12
 
           # =====================
           # BASE
           # =====================
-          base: header,activity,community,repositories
+          base: header, activity, community, repositories
 
           # =====================
-          # STREAK (sequência real)
+          # STREAK (sequência REAL)
           # =====================
           plugin_streak: yes
           plugin_streak_days: yes
-          plugin_streak_limit: 30
 
           # =====================
           # ATIVIDADE RECENTE
           # =====================
           plugin_activity: yes
-          plugin_activity_limit: 8
+          plugin_activity_limit: 6
           plugin_activity_days: 14
           plugin_activity_visibility: all
 
           # =====================
-          # LINGUAGENS (complementa o stats)
+          # LINGUAGENS
           # =====================
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_colors: github
+
+          # =====================
+          # CALENDÁRIO (impacto visual)
+          # =====================
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
