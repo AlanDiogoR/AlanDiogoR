@@ -16,34 +16,25 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # =====================
-          # CONFIGURAÇÃO VISUAL
+          # CONFIGURAÇÃO VISUAL (COMPACTA)
           # =====================
           template: classic
           config_theme: carbon
           config_timezone: America/Sao_Paulo
-          config_display: compact
-          filename: github-metrics.svg # Garante que o nome seja o mesmo do seu README
-
-          # =====================
-          # PLUGINS SELECIONADOS
-          # =====================
-          base: header, activity, community, repositories
+          config_display: columns # Muda para colunas para economizar altura
+          base: "" # REMOVE o cabeçalho de 100% de largura que você não gostou
           
-          # Streak: Foco total em consistência
+          # =====================
+          # STREAK (DESTAQUE MÁXIMO)
+          # =====================
           plugin_streak: yes
           plugin_streak_days: yes
+          plugin_streak_limit: 30
           
-          # Linguagens: Mostra o que você realmente programa
+          # =====================
+          # LINGUAGENS (PARA VALIDAR SEU BACK-END)
+          # =====================
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex # Ignora linguagens de marcação se quiser focar em lógica
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          
-          # Hábitos: Mostra em qual período do dia você é mais ativo (bom para recrutadores verem seu ritmo)
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # Conquistas: Adiciona medalhas por commits, estrelas, etc.
-          plugin_achievements: yes
-          plugin_achievements_threshold: B # Mostra apenas conquistas de nível "Bronze" para cima
+          plugin_languages_ignored: html, css # Esconde linguagens simples para focar em C, Java e TypeScript
+          plugin_languages_details: percentage
+          plugin_languages_limit: 4
