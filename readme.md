@@ -68,12 +68,9 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanDiogoR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlanDiogoR&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
- <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanDiogoR&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
