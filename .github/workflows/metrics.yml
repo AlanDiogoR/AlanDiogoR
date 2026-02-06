@@ -2,8 +2,9 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
   metrics:
@@ -15,22 +16,34 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # =====================
-          # VISUAL (compatível com radical)
+          # CONFIGURAÇÃO VISUAL
           # =====================
           template: classic
           config_theme: carbon
           config_timezone: America/Sao_Paulo
           config_display: compact
-          config_padding: 12
+          filename: github-metrics.svg # Garante que o nome seja o mesmo do seu README
 
           # =====================
-          # BASE (mínimo possível)
+          # PLUGINS SELECIONADOS
           # =====================
-          base: header
-
-          # =====================
-          # STREAK (FOCO TOTAL)
-          # =====================
+          base: header, activity, community, repositories
+          
+          # Streak: Foco total em consistência
           plugin_streak: yes
           plugin_streak_days: yes
-          plugin_streak_limit: 30
+          
+          # Linguagens: Mostra o que você realmente programa
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex # Ignora linguagens de marcação se quiser focar em lógica
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # Hábitos: Mostra em qual período do dia você é mais ativo (bom para recrutadores verem seu ritmo)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # Conquistas: Adiciona medalhas por commits, estrelas, etc.
+          plugin_achievements: yes
+          plugin_achievements_threshold: B # Mostra apenas conquistas de nível "Bronze" para cima
