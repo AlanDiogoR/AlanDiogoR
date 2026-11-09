@@ -3,8 +3,7 @@
 <p align="center">
   <b>Full Stack Developer · Software Engineering student · Design & Growth</b><br/>
   <a href="https://alandiogo.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/alandiogor/">LinkedIn</a> ·
-  <a href="#portugues">Português ↓</a>
+  <a href="https://www.linkedin.com/in/alandiogor/">LinkedIn</a>
 </p>
 
 ---
@@ -80,37 +79,7 @@ I'm a Software Engineering student at **UTFPR** (Brazil) and a Systems Developme
 
 ---
 
-<a id="portugues"></a>
-
-# Português
-
-## Sobre mim
-
-Sou estudante de Engenharia de Software na **UTFPR** e técnico em Desenvolvimento de Sistemas (ETEC). Construo produtos web de ponta a ponta, da interface à API, e me importo com o que aparece em número: tempo de carregamento, conversão e manutenção do código.
-
-- 💻 Full Stack com **TypeScript, React, Next.js, Node.js** e **Java / Spring Boot**.
-- 🎨 Desenho minhas próprias interfaces (UI/UX) antes de programar.
-- 📈 Experiência prática com **SEO, Google Tag Manager / GA4** (tags e eventos) e tráfego pago, aplicados em pequenos negócios reais.
-- 🌎 Inglês: intermediário-avançado (B2). Aberto a trabalho remoto.
-
-## Projetos em destaque
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**Grivy**](https://github.com/AlanDiogoR/grivy) · [online](https://grivy.netlify.app) | App de controle financeiro com arquitetura limpa. Fiz o design da interface e a base inicial do código. | Java, Spring Boot, Vue.js |
-| [**Bike Center**](https://github.com/AlanDiogoR/bike-center) · [online](https://bike-center-web.vercel.app) | Site de uma loja de bikes e motos com mais de 30 anos em Fartura/SP, focado em SEO e conversão local. | Next.js, TypeScript |
-| [**IShop**](https://github.com/AlanDiogoR/IShop) | E-commerce com API REST e banco MongoDB. | Next.js, TypeScript, MongoDB |
-| [**Profile**](https://github.com/AlanDiogoR/Profile) · [online](https://alandiogo.vercel.app) | Meu portfólio pessoal, em inglês e português. | TypeScript |
-| [**SECOMP CyberSec Lab**](https://github.com/AlanDiogoR/Desafi-SECOMP_2026_CyberSec) | App web propositalmente vulnerável para praticar exploração e correção (localhost, uso educacional). | Java, Python, C# |
-| [**UTF-Projetos**](https://github.com/AlanDiogoR/UTF-Projetos) | Trabalhos da graduação: estruturas de dados e algoritmos. | C |
-
-## Stack
-
-Mesma stack da seção em inglês acima. **Práticas:** UML · engenharia de requisitos · arquitetura de software · testes automatizados · CI/CD · Scrum / Kanban · SEO · GTM / GA4
-
----
-
-## 📫 Contact / Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alandiogor/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2aa889?style=for-the-badge&logo=vercel&logoColor=fff)](https://alandiogo.vercel.app)
