@@ -4,12 +4,10 @@
   <b>Full Stack Developer · Software Engineering student · Design & Growth</b><br/>
   <a href="https://alandiogo.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/alandiogor/">LinkedIn</a> ·
-  🇧🇷 <a href="#-português">Leia em português</a>
+  <a href="#portugues">Português ↓</a>
 </p>
 
 ---
-
-# 🇺🇸 English
 
 ## About me
 
@@ -82,7 +80,9 @@ I'm a Software Engineering student at **UTFPR** (Brazil) and a Systems Developme
 
 ---
 
-# 🇧🇷 Português
+<a id="portugues"></a>
+
+# Português
 
 ## Sobre mim
 
